@@ -147,6 +147,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.DefaultCompany.VRTowerDefense
+    Standalone: com.DefaultCompany.VRTowerDefense
     iPhone: com.DefaultCompany.VRTowerDefense
   buildNumber:
     Standalone: 0
@@ -154,7 +155,7 @@ PlayerSettings:
     tvOS: 0
   overrideDefaultApplicationIdentifier: 0
   AndroidBundleVersionCode: 1
-  AndroidMinSdkVersion: 29
+  AndroidMinSdkVersion: 19
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 0
   aotOptions: 
@@ -669,7 +670,7 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 2
   cloudProjectId: 3d127324-c433-4b75-a939-d4c9484926d3
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
